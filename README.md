@@ -1,2 +1,2 @@
 # Programacao_Uniube
-Projetos Desenvolvidos na Uniube.
+Projetos e exercícios desenvolvidos na Uniube.
